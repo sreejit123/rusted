@@ -1,0 +1,7 @@
+[package]
+name = "snakesandladders"
+version = "0.1.0"
+authors = ["sreejitchoudhury"]
+
+[dependencies]
+rand = "0.6"
