@@ -1,0 +1,7 @@
+[package]
+name = "christmas_tree"
+version = "0.1.0"
+authors = ["sreejitchoudhury"]
+
+[dependencies]
+text_io = "0.1.7"
